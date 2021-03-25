@@ -42,6 +42,10 @@
 
 * 【分治，快速排序（堆）】寻找数组里第K大的数（牛客NC88）：[FindKthLarge.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/FindKthLarge.cpp)
 
+## Machine Learning
+
+* [SVD & PCA](https://www.cnblogs.com/leftnoteasy/archive/2011/01/19/svd-and-applications.html)
+
 ## Deep Learning
 
 * [Depthwise Conv & Pointwise Conv](https://yinguobing.com/separable-convolution/#fn2)
@@ -56,6 +60,11 @@
 
 * [标准化和归一化](https://blog.csdn.net/weixin_41888257/article/details/108393399)
 
+* [参数初始化](https://www.cnblogs.com/shine-lee/p/11908610.html)
+
+## Computer Vision
+
+* [三维物体检测总结](https://zhuanlan.zhihu.com/p/346776883)
 
 
 ## Programming
