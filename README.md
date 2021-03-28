@@ -31,6 +31,11 @@
 
 * 大数加法（牛客NC1）：[BigIntSum.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/BigIntSum.cpp)
 
+* 非负整数数组的最大数排列（牛客NC111）：[LargestNum.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/LargestNum.cpp)
+
+### 树
+
+* 二叉树的最大深度（牛客NC13）：[MaxDepth.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/MaxDepth.cpp)
 
 ### ？？？
 
@@ -41,6 +46,10 @@
 * 【双指针】容器最大盛水量（牛客NC128）：[MaxWater.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/MaxWater.cpp)
 
 * 【分治，快速排序（堆）】寻找数组里第K大的数（牛客NC88）：[FindKthLarge.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/FindKthLarge.cpp)
+
+* 【排序（牛客NC140）：[Sort.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/Sort.cpp)
+
+* 【候选人（牛客NC73）】：[MoreThanHalfNum.cpp](https://github.com/shinshiner/Coding-for-Food/blob/main/newcoder/MoreThanHalfNum.cpp)
 
 ## Machine Learning
 
